@@ -1,0 +1,29 @@
+h2 {
+  margin: 4rem 0rem 2rem 0rem !important;
+  border-bottom: solid 1px rgb(70, 150, 236);
+}
+
+h3 {
+  margin: 3rem 0rem 1rem 0rem !important;
+  padding: 0rem 0rem 0.5rem 0.5rem !important;
+  border-left: solid 2px rgb(70, 150, 236);
+}
+
+.md-content__button {
+  display: none !important;
+}
+
+.md-header__button svg {
+  opacity: 0;
+}
+
+.md-header__button {
+  background-image: url(https://github.com/evinda170093/evinda170093.github.io/blob/main/images/lighte.png?raw=true);
+  background-size: contain;
+  margin: .25rem;
+}
+
+.md-header__title {
+  margin-left: .2rem;
+  font-weight: 600;
+}
