@@ -1,5 +1,5 @@
 # Project information
-site_name: 'Evinda Widia Web-Mining'
+site_name: 'Evinda Summary'
 site_description: 'Summary of Web Mining contains: crawling, preprocessing, modeling and evaluation'
 site_author: 'evindawidiacahyaningrum'
 site_url: 'https://evinda170093.github.io/'
@@ -63,7 +63,7 @@ extra:
 
 # Page tree
 nav:
-  - 'Home': 'index.md'
+  - 'Summary of Web-Mining': 'index.md'
   - 'Crawling': 'crawling.md'
   - 'Text Preprocessing': 'text-preprocessing.md'
   - 'Modelling': 'modelling.md'

@@ -18,6 +18,12 @@ h3 {
 }
 
 .md-header__button {
-  background-image: url(https://github.com/evinda170093/evinda170093.github.io/blob/main/icons/elogo.png?raw=true);
+  background-image: url(https://github.com/evinda170093/evinda170093.github.io/blob/main/icons/lighte.png?raw=true);
   background-size: contain;
+  margin: .25rem;
+}
+
+.md-header__title {
+  margin-left: .2rem;
+  font-weight: 600;
 }
