@@ -1,3 +1,5 @@
+![evaluation.jpg](https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Precision-vs-Recall.jpg)
+
 ## Apa itu Evaluation?
 
 Terdapat beberapa metrik evaluasi yang bisa digunakan untuk mengevaluasi hasil dari kerja sebuah sistem. Diantaranya adalah Recall, Precision, dan F1-Measure.

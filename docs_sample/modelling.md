@@ -1,3 +1,5 @@
+![modelling.png](https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-3-319-95663-3_6/MediaObjects/418651_1_En_6_Fig3_HTML.png)
+
 ## Apa itu Modelling?
 
 Terdapat beberapa topik dalam modelling, diantaranya adalah LSA (Latent Semantic Analysis) dan LDA (Latent Dirichlet Allocation). LSA merupakah sebuah teknik dasar dalam pemodelan text untuk menganalisis hubungan antara sekumpulan dokumen dan istilah atau term yang dikandungnya atau dapat didefinisikan sebagai model untuk mengekstraksi dan mewakili makna penggunaan kontekstual dari kata-kata dan untuk menghitung kesamaan antar kata, kalimat atau seluruh dokumen.
@@ -14,7 +16,7 @@ from scipy.linalg import svd
 from numpy import dot
 ```
 
-![SVD.png](attachment:SVD.png)
+![SVD.png](https://github.com/evinda170093/evinda170093.github.io/blob/main/docs_sample/images/SVD.png?raw=true)
 
 SDV (Singular Value Decomposition) adalah salah satu teknik dalam matrix factorization atau faktorisasi matriks yang banyak digunakan untuk menguraikan matriks menjadi beberapa matriks komponen.
 

@@ -1,3 +1,5 @@
+![preprocessing.png](https://miro.medium.com/max/800/1*KljmJybQDj1mJAL-oS8VWQ.png)
+
 ## Apa itu Preprocessing?
 
 Preprocessing atau Text Preprocessing merupakan tahap lanjutan dari crawling data. Text preprocessing merupakan tahap untuk melakukan seleksi data sebelum dilakukan pemrosesan data dan diubah menjadi data yang lebih tertsruktur.

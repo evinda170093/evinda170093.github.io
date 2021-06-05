@@ -1,3 +1,5 @@
+![crawling.png](https://blog.apify.com/content/images/max/1132/1-YfeP5WFbn0MwI76kuTM38w.png)
+
 ## Apa itu Web Crawling?
 
 Web scraping sering disebut web crawling atau web spidering atau "secara terprogram menelusuri kumpulan halaman web dan mengekstraksi data," adalah alat yang ampuh untuk bekerja dengan data di web.
@@ -10,7 +12,7 @@ Dengan web scraping, kita dapat menambang data tentang sekumpulan produk, mendap
 
 Dalam tutorial ini, Anda akan belajar tentang dasar-dasar proses crawling saat menjelajahi kumpulan data
 
-## Strategi web crawling (x)
+## Strategi web crawling
 
 Dalam praktiknya, web crawling hanya mengunjungi sebagian halaman bergantung pada crawler budget, yang dapat berupa jumlah halaman maksimum per domain, kedalaman (depth), atau waktu eksekusi (execution time).
 
