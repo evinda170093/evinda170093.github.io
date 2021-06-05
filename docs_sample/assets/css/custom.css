@@ -14,5 +14,10 @@ h3 {
 }
 
 .md-header__button svg {
-  display: none !important;
+  opacity: 0;
+}
+
+.md-header__button {
+  background-image: url(https://github.com/evinda170093/evinda170093.github.io/blob/main/icons/elogo.png?raw=true);
+  background-size: contain;
 }
