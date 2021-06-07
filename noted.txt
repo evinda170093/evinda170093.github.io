@@ -1,8 +1,0 @@
-Running Lokal
-mkdocs serve
-
-Deploy Github
-git add .
-git commit -m "Commit"
-git push origin main
-mkdocs gh-deploy --remote-branch main
